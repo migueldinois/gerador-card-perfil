@@ -1,4 +1,4 @@
-# 🚀 Gerador de Card de Perfil Dinâmico | JavaScript Study ✨
+# 🚀 Gerador de Card de Perfil
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
@@ -35,4 +35,4 @@ Este é um projeto prático que desenvolvi para consolidar meus conhecimentos em
 ## 🚀 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone []()
+   git clone https://github.com/migueldinois/gerador-card-perfil
