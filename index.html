@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de card para perfil</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="formulario">
+            <h2>Gerador de card</h2>
+            <input type="text" id="inputNome" placeholder="Nome">
+            <input type="text" id="inputCargo" placeholder="Profissão">
+            <label for="inputCor">Escolha uma cor de destaque:</label>
+            <input type="color" id="inputCor" value="#6200ea">
+        </div>
+
+        <div class="card" id="previewCard">
+            <div class="card-header" id="headerCor"></div>
+            <div class="card-body">
+                <h1 id="nomeDisplay">Seu Nome Aqui</h1>
+                <p id="cargoDisplay">Seu Cargo</p>
+                <button class="btn-follow" id="btnCor">Seguir</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
